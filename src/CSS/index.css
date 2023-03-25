@@ -789,3 +789,9 @@ span#faq-quest {
     text-shadow: 0 0 5px blue !important;
 
   } */
+
+  .grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 22rem;
+  }
